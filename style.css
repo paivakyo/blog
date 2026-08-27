@@ -1,0 +1,23 @@
+header{
+    background-color: #feae35;
+    color: black;
+    text-align: center;
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 16px;
+}
+main{
+    background-color: #f2dcff;
+    color: black;
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 16px;
+}
+article{
+
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+artigo-autor
